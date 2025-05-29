@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ##### Skill
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel&theme=light)](https://skillicons.dev)
+<br>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
