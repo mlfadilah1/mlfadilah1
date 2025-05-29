@@ -1,5 +1,6 @@
-## Hi there 👋
-![Muhammad Lutfi Fadilah](img/header.png)
+## Hey! I am Muhammad Lutfi F 👋
+
+<!-- ![Muhammad Lutfi Fadilah](img/header.png) -->
 <!--
 **mlfadilah1/mlfadilah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Framework Laravel , React ⚛️, Python 🐍.
 
 ##### Skill
-[![My Skills](https://skillicons.dev/icons?ii=html,css,js,php,laravel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?ii=html,css,js,php,laravel&theme=light)](https://skillicons.dev)
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
