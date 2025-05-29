@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Muhammad Lutfi Fadilah](./header.png)
+![Muhammad Lutfi Fadilah](img/header.png)
 <!--
 **mlfadilah1/mlfadilah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Framework Laravel , React ⚛️, Python 🐍.
 
 ##### Skill
-[ ![My Skills] (https://skillicons.dev/icons?ii=html,css,js,php,laravel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?ii=html,css,js,php,laravel&theme=dark)](https://skillicons.dev)
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
 ##### Connect With Me
-! [https://www.instagram.com/mlfadilah1/] (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-! [https://www.linkedin.com/in/muhammad-lutfi-fadilah-7792502a5/] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://www.instagram.com/mlfadilah1/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.linkedin.com/in/muhammad-lutfi-fadilah-7792502a5/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 <!-- snake animation -->
